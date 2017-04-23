@@ -1,0 +1,74 @@
+/*
+Theme Name: Example
+Theme URI: https://example.dev
+Author: Akash Yellgetti
+Version: 0.1
+*/
+
+.sub-menu {
+    display: none;
+    padding-left: 15px;
+    z-index: 1000;
+}
+#nav li:hover .sub-menu {
+    display: block;
+    position: absolute;
+    list-style-type: none;
+    min-width: 200px;
+    background-color: #222
+}
+#nav li:hover .sub-menu li a {
+    color: #ddd;
+    margin-right: 15px;
+    padding: 12px 5px;
+    text-decoration: none;
+    display: block;
+}
+#nav li:hover .sub-menu li a:hover {
+    /*background-color: #f1f1f1*/
+    
+    color: #fff;
+}
+.slider .sow-slider-base {
+    height: 500px;
+}
+footer {
+    background-color: #0c1a1e;
+    min-height: 250px;
+    font-family: 'Open Sans', sans-serif;
+}
+.copyright {
+    min-height: 40px;
+    background-color: #000000;
+}
+.copyright p {
+    text-align: left;
+    color: #FFF;
+    padding: 10px 0;
+    margin-bottom: 0px;
+}
+.heading7 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #d9d6d6;
+    margin-bottom: 22px;
+}
+.bottom_ul {
+    list-style-type: none;
+    float: right;
+    margin-bottom: 0px;
+}
+.bottom_ul li {
+    float: left;
+    line-height: 40px;
+}
+.bottom_ul li:after {
+    content: "/";
+    color: #FFF;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.bottom_ul li a {
+    color: #FFF;
+    font-size: 12px;
+}

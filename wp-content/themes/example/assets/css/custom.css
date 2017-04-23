@@ -1,0 +1,632 @@
+.frame_style_1 {
+border: 1.7em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max1.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 1.9em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max1.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 1.9em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max1.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 1.9em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max1.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 1.9em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max1.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 1.9em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;  
+    
+    
+}
+.frame_style_2 {
+border: 1.7em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max2.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.1em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max2.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.1em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max2.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.1em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max2.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.1em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max2.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.1em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;  
+    
+    
+}
+
+.frame_style_3 {
+border: 1.1em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max3.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max3.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max3.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max3.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max3.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_4 {
+border: 1.1em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max4.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max4.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max4.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max4.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max4.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_5 {
+border: 1.6em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max5.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max5.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max5.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max5.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max5.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_6 {
+border: 1.2em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max6.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.8em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max6.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.8em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max6.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.8em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max6.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.8em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max6.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.8em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_7 {
+border: 1.3em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max7.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max7.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max7.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max7.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max7.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_8 {
+border: 1.7em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max8.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.1em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max8.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.1em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max8.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.1em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max8.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.1em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max8.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.1em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+.frame_style_9 {
+border: 1.2em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max9.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max9.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max9.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max9.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max9.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+.frame_style_10 {
+border: 1.2em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max10.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max10.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max10.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max10.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max10.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+.frame_style_11 {
+border: 1.2em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max11.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 2.6em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max11.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 2.6em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max11.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 2.6em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max11.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 2.6em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max11.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 2.6em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;     
+}
+
+.frame_style_12 {
+border: 1.7em double #edb742 !important; 
+/* Safari and Chrome */
+-webkit-border-image-source: url(../images/frames/full-frame-max12.png) !important; 
+-webkit-border-image-slice: 56 !important;  
+-webkit-border-image-width: 1.9em !important;  
+-webkit-border-image-outset: 0 !important;  
+-webkit-border-image-repeat: round !important;  
+
+/* Firefox */
+-moz-border-image-source: url(../images/frames/full-frame-max12.png) !important;  
+-moz-border-image-slice: 56 !important; 
+-moz-border-image-width: 1.9em !important; 
+-moz-border-image-outset: 0 !important;  
+-moz-border-image-repeat: round !important; 
+
+/* Internet Explorer */
+-ms-border-image-source: url(../images/frames/full-frame-max12.png) !important;  
+-ms-border-image-slice: 56 !important;  
+-ms-border-image-width: 1.9em !important;  
+-ms-border-image-outset: 0 !important;  
+-ms-border-image-repeat: round !important;  
+
+/* Opera */
+-o-border-image-source: url(../images/frames/full-frame-max12.png) !important;  
+-o-border-image-slice: 56 !important;  
+-o-border-image-width: 1.9em !important;  
+-o-border-image-outset: 0 !important;  
+-o-border-image-repeat: round !important;  
+
+/* CSS3 */
+border-image-source: url(../images/frames/full-frame-max12.png) !important; 
+border-image-slice: 56 !important; 
+border-image-width: 1.9em !important;  
+border-image-outset: 0 !important; 
+border-image-repeat: round !important;  
+    
+    
+}
+.canvas_mini_photo {
+    background-image: url(../images/mini_canvas.png) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 350px;
+    padding-left: 80px;
+    padding-top: 44px;
+    background-size: contain;
+    position: relative;
+}
+.canvas_mini_photo img{
+	max-height:200px !important;
+    width:auto !important;
+}
+
+#pins-on div {
+  min-width: 20px;
+  min-height: 20px;
+  background: rgb(228, 228, 228);
+  border: 1px solid rgb(150, 150, 150);
+  border-radius: 20px;
+  box-shadow: 2px 2px 0px rgb(169, 169, 169);
+  z-index: 9999;
+  display: block;
+  position: absolute;
+}
+.pin_n1 {
+  top: 5%;
+  left: 10%;
+}
+.pin_n2 {
+  top: 5%;
+  right: 10%;
+}
+.pin_n3 {
+  bottom: 10%;
+  left: 10%;
+}
+.pin_n4 {
+  bottom: 10%;
+  right: 10%;
+}
+
+/*======Color Frame ===================*/
+
+.black{
+	background-color: black;
+}
+.black_frame{
+	border:15px solid black;
+}
+.black_mat{
+	color: #fff;
+	background-color: black;	
+}
+.blue{
+	background-color: blue;
+}
+.blue_frame{
+	border:15px solid blue;
+}
+.blue_mat{
+	color: #fff;
+	background-color: blue;	
+}
+.dark_brown{
+	background-color:#4C2B00;
+}
+.dark_brown_frame{
+	border:15px solid #4C2B00;
+}
+.dark_brown_mat{
+	color: #fff;
+	background-color:#4C2B00;	
+}
+.gold{
+	background-color: gold;
+}
+.gold_frame{
+	border:15px solid gold;
+}
+.gold_mat{
+	color: #fff;
+	background-color: gold;	
+}
+/*=================*/
+.green{
+	background-color: green;
+}
+.green_frame{
+	border:15px solid green;
+}
+.green_mat{
+	color: #fff;
+	background-color: green;	
+}
+.grey{
+	background-color: grey;
+}
+.grey_frame{
+	border:15px solid grey;
+}
+.grey_mat{
+	color: #fff;
+	background-color: grey;	
+}
+.honey_brown{
+	background:#FBA32F;
+}
+.honey_brown_frame{
+	border:15px solid #FBA32F;
+}
+.honey_brown_mat{
+	color: #fff;
+	background:#FBA32F;	
+}
+.ivory{
+	background-color:ivory;
+}
+.ivory_frame{
+	border:15px solid ivory;
+}
+.ivory_mat{
+	color: #fff;
+	background-color:ivory;	
+}
+/*=================*/
+.purple{
+	background-color:purple;
+}
+.purple_frame{
+	border:15px solid purple;
+}
+.purple_mat{
+	color: #fff;
+	background-color:purple;	
+}
+.red{
+	background-color:red;
+}
+.red_frame{
+	border:15px solid red;
+}
+.red_mat{
+	color: #fff;
+	background-color:red;	
+}
+.silver{
+	background-color:silver;
+}
+.silver_frame{
+	border:15px solid silver;
+}
+.silver_mat{
+	color: #fff;
+	background-color:silver;	
+}
+.white{
+	color: #000;
+	background-color:white;
+}
+/*================Mat Padding============ */
+
+.mat_1_1{
+	padding: 10px;
+}
+.mat_3_3{
+	padding: 20px;
+}
+.mat_5_5{
+	padding: 25px;
+}
+.mat_7_7{
+	padding: 30px;
+}
